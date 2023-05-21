@@ -9,7 +9,7 @@
     - Queen's Eagle Arrow has been added.
     - Movement avoiding walls has also been implemented.
 
-- Extract the zip file and run the following commands in the terminal :
+- Extract the inner game code zip file and run the following commands in the terminal :
 - To run the game : `python3 game.py`
 - To view replays : `python3 replay.py`  and select the replay you want to watch according to mentioned date and time.
 - For Victory : All buildings apart from walls get destroyed from the map in all three levels.
